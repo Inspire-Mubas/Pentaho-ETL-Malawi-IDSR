@@ -1,0 +1,91 @@
+ANY_CLUSTER,ANY_CONT_OT_CASE,CASE_F_CLASS,CASE_F_O,CASE_UID1,COVID_HIST,DIST_CASE_RESI,FIN_LAB_RESU,NATL,NEAR_LMK,PREG_CASE_FEM,PRES_SYMP,RECE_TRAV_HIST,REPR_FACI,REPR_DIST,SEX,S_COND,S_TYP,TEST_PLAT,TRIM,TYP_CASE,TYP_REPR_DISE_COND,TYP_O_TESTS_PERF,U_CONDS,VACC_TYP_VAC,VACC,DIST_CASE_RESI_TYP,OCCU
+Family,Confirmed,Compatible,Alive,NID,No,MW-BA,Negative,American,Church,No,Abdominal pain,Indigenous,103,MW-BA,Female,Adequate,Blood,Molecular Labs,First,IPD,AEFI,Antigen POC tests,Asthma,AstraZeneca,Covid-19,Rural,Accountant
+Hospital,No,Confirmed,Dead,Passport,Yes,MW-BL,Positive,Australian,Hospital,Yes,Bleeding,International,107,MW-BL,Male,Not Adequate,NP swab,Mobile testing,Second,OPD,SARIs,PCR,Cancer,Johnson & Johnson,None,Urban,Banker
+No,Suspected,Lost,Lost,,,MW-CK,,Belgian,Market,N/A,Chest pain,,137,MW-CK,,,OP swab,,Third,POE,SARS/MERS/COVID,,Cardiovascular Dz,,,,Blank
+School,,Probable,TO,,,MW-CR,,Brazilian,School,,Cough,,201,MW-CR,,,Saliva,,N/A,,Unexplained cluster,,COPD,,,,Business
+Work place,,,,,,MW-CT,,British,,,Diarrhea,,205,MW-CT,,,,,,,,,DM,,,,Clerk
+,,,,,,MW-DE,,Burundian,,,Fatigue,,206,MW-DE,,,,,,,,,HIV,,,,Doctor
+,,,,,,MW-DO,,Canadian,,,Fever,,216,MW-DO,,,,,,,,,Hypertension,,,,Farmer
+,,,,,,MW-KR,,Chinese,,,Headache,,305,MW-KR,,,,,,,,,Kidney Dz,,,,Journalist
+,,,,,,MW-KS,,Congolese,,,Muscle ache,,315,MW-KS,,,,,,,,,Liver Dz,,,,Lawyer
+,,,,,,MW-LK,,Dutch,,,Nausea,,401,MW-LK,,,,,,,,,Mental,,,,Lecturer
+,,,,,,MW-LI,,Egyptian,,,No(Asymptomatic),,404,MW-LI,,,,,,,,,Neurological Dz,,,,Minister
+,,,,,,MW-MH,,Ethiopian,,,Other,,408,MW-MH,,,,,,,,,No,,,,Nurse
+,,,,,,MW-MG,,German,,,Shortness of Breath,,411,MW-MG,,,,,,,,,Other,,,,Politician
+,,,,,,MW-MC,,Greek,,,Skin rash,,417,MW-MC,,,,,,,,,Stroke,,,,Student
+,,,,,,MW-MU,,Indian,,,,,441,MW-MU,,,,,,,,,TB,,,,Teacher
+,,,,,,MW-MW,,Irish,,,,,505,MW-MW,,,,,,,,,,,,,Technician
+,,,,,,MW-MZ,,Italian,,,,,509,MW-MZ,,,,,,,,,,,,,Engineer
+,,,,,,MW-NE,,Japanese,,,,,515,MW-NE,,,,,,,,,,,,,
+,,,,,,MW-NB,,Kenyan,,,,,531,MW-NB,,,,,,,,,,,,,
+,,,,,,MW-NK,,Kuwaiti,,,,,532,MW-NK,,,,,,,,,,,,,
+,,,,,,MW-NS,,Lebanese,,,,,538,MW-NS,,,,,,,,,,,,,
+,,,,,,MW-NU,,Malawian,,,,,601,MW-NU,,,,,,,,,,,,,
+,,,,,,MW-NI,,Mozambican,,,,,1005,MW-NI,,,,,,,,,,,,,
+,,,,,,MW-PH,,Nigerian,,,,,1008,MW-PH,,,,,,,,,,,,,
+,,,,,,MW-RU,,Pakistanian,,,,,1013,MW-RU,,,,,,,,,,,,,
+,,,,,,MW-SA,,Portuguese,,,,,1104,MW-SA,,,,,,,,,,,,,
+,,,,,,MW-TH,,Rwandan,,,,,1111,MW-TH,,,,,,,,,,,,,
+,,,,,,MW-ZO,,Scottish,,,,,1113,MW-ZO,,,,,,,,,,,,,
+,,,,,,,,South African,,,,,1210,,,,,,,,,,,,,,
+,,,,,,,,South Korean,,,,,1307,,,,,,,,,,,,,,
+,,,,,,,,Tanzanian,,,,,1313,,,,,,,,,,,,,,
+,,,,,,,,Zambian,,,,,1335,,,,,,,,,,,,,,
+,,,,,,,,Zimbabwean,,,,,1336,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1415,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1503,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1514,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1519,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1530,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1533,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1596,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1603,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1607,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1608,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1609,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1618,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1707,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1717,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1719,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1723,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1735,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1825,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1827,,,,,,,,,,,,,,
+,,,,,,,,,,,,,1836,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2516,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2517,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2520,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2523,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2531,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2605,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2705,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2706,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2710,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2712,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2718,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2719,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2722,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2723,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2801,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2808,,,,,,,,,,,,,,
+,,,,,,,,,,,,,2926,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3106,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3119,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3121,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3211,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3217,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3303,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3315,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3402,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3409,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3424,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3509,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3520,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3601,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3703,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3709,,,,,,,,,,,,,,
+,,,,,,,,,,,,,3801,,,,,,,,,,,,,,
+,,,,,,,,,,,,,4077,,,,,,,,,,,,,,
+,,,,,,,,,,,,,4078,,,,,,,,,,,,,,
+,,,,,,,,,,,,,5039,,,,,,,,,,,,,,
+,,,,,,,,,,,,,5076,,,,,,,,,,,,,,
